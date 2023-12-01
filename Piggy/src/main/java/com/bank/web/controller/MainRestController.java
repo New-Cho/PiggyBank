@@ -1,4 +1,4 @@
-package com.bank.main.controller;
+package com.bank.web.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
